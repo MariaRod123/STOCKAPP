@@ -1,0 +1,13 @@
+C:\Users\MARIA_RO\Documents\Visual Studio 2010\Projects\StockAppRDTEST\StockAppRDTEST\StockAppRD\obj\x86\Release\StockAppRD.Ayuda.resources
+C:\Users\MARIA_RO\Documents\Visual Studio 2010\Projects\StockAppRDTEST\StockAppRDTEST\StockAppRD\obj\x86\Release\StockAppRD.Categorias.resources
+C:\Users\MARIA_RO\Documents\Visual Studio 2010\Projects\StockAppRDTEST\StockAppRDTEST\StockAppRD\obj\x86\Release\StockAppRD.Compras.resources
+C:\Users\MARIA_RO\Documents\Visual Studio 2010\Projects\StockAppRDTEST\StockAppRDTEST\StockAppRD\obj\x86\Release\StockAppRD.FormPrincipal.resources
+C:\Users\MARIA_RO\Documents\Visual Studio 2010\Projects\StockAppRDTEST\StockAppRDTEST\StockAppRD\obj\x86\Release\StockAppRD.Login.resources
+C:\Users\MARIA_RO\Documents\Visual Studio 2010\Projects\StockAppRDTEST\StockAppRDTEST\StockAppRD\obj\x86\Release\StockAppRD.PantallaInicialCarga.resources
+C:\Users\MARIA_RO\Documents\Visual Studio 2010\Projects\StockAppRDTEST\StockAppRDTEST\StockAppRD\obj\x86\Release\StockAppRD.Productos.resources
+C:\Users\MARIA_RO\Documents\Visual Studio 2010\Projects\StockAppRDTEST\StockAppRDTEST\StockAppRD\obj\x86\Release\StockAppRD.Resources.resources
+C:\Users\MARIA_RO\Documents\Visual Studio 2010\Projects\StockAppRDTEST\StockAppRDTEST\StockAppRD\obj\x86\Release\StockAppRD.Proveedores.resources
+C:\Users\MARIA_RO\Documents\Visual Studio 2010\Projects\StockAppRDTEST\StockAppRDTEST\StockAppRD\obj\x86\Release\StockAppRD.RegistrarUsuario.resources
+C:\Users\MARIA_RO\Documents\Visual Studio 2010\Projects\StockAppRDTEST\StockAppRDTEST\StockAppRD\obj\x86\Release\StockAppRD.Usuarios.resources
+C:\Users\MARIA_RO\Documents\Visual Studio 2010\Projects\StockAppRDTEST\StockAppRDTEST\StockAppRD\obj\x86\Release\StockAppRD.Ventas.resources
+C:\Users\MARIA_RO\Documents\Visual Studio 2010\Projects\StockAppRDTEST\StockAppRDTEST\StockAppRD\obj\x86\Release\StockAppRD.vbproj.GenerateResource.Cache
